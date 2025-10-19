@@ -1,6 +1,6 @@
 # Musk-Sentiment-vs-TSLA
-A technical case study analyzing the correlation between Elon Musk's tweet sentiment and the $TSLA stock price. (Layer 3 of The Musk Protocol)
-> **Note:** This repository contains the detailed code, notebook, and methodology for **Layer 3 (Financial Protocol)** of the main **[The Musk Protocol](https://github.com/MagdalenaRomaniecka/The-Musk-Protocol-A-Multi-Layered-Analysis-of-Influence-)** project.
+A technical case study analyzing the correlation between Elon Musk's tweet sentiment and the $TSLA stock price. (Layer 5 of The Musk Protocol)
+> **Note:** This repository contains the detailed code, notebook, and methodology for **Layer 5 (Financial Protocol)** of the main **[The Musk Protocol](https://github.com/MagdalenaRomaniecka/The-Musk-Protocol-A-Multi-Layered-Analysis-of-Influence-)** project.
 >
 > ➡️ **[Click here to return to the main project hub (The Musk Protocol)](https://github.com/MagdalenaRomaniecka/The-Musk-Protocol-A-Multi-Layered-Analysis-of-Influence-)**
 >
@@ -17,7 +17,7 @@ A technical case study analyzing the correlation between Elon Musk's tweet senti
 
 ## 🚀 Mission & Analytical Question
 
-This project serves as the deep-dive technical analysis for **Layer 3** of "The Musk Protocol." It investigates the real-world financial impact of a CEO's social media presence. The core analytical question is:
+This project serves as the deep-dive technical analysis for **Layer 5** of "The Musk Protocol." It investigates the real-world financial impact of a CEO's social media presence. The core analytical question is:
 
 > **"Is there a measurable correlation between the daily sentiment of Elon Musk's tweets and the daily closing price of Tesla ($TSLA) stock?"**
 
