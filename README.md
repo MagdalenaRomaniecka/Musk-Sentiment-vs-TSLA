@@ -34,7 +34,7 @@ This project serves as the deep-dive technical analysis for **Layer 5** of "The 
 
 The chart below visualizes the daily closing price of $TSLA stock (blue line, left axis) against the daily average sentiment of Elon Musk's tweets (red line, right axis).
 
-![Tesla Stock Price vs. Tweet Sentiment](https://github.com/MagdalenaRomaniecka/Musk-Sentiment-vs-TSLA/blob/main/notebooks/sentiment_vs_stock_price.ipynb)
+![Tesla Stock Price vs. Tweet Sentiment](https://github.com/MagdalenaRomaniecka/Musk-Sentiment-vs-TSLA/blob/main/images/sentiment_vs_stock_price.png)
 *Fig 1: A dual-axis chart comparing Tesla's stock price with the sentiment of Musk's tweets.*
 
 ### Key Findings (TL;DR)
