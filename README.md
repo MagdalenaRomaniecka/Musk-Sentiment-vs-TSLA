@@ -95,8 +95,10 @@ The following is the complete, phase-by-phase interpretation of the chart in its
 * **Environment:** Google Colab / Jupyter Notebook
 
 ### How to Reproduce This Analysis
-1.  Clone this repository: `git clone https://github.com/MagdalenaRomaniecka/Anatomy-of-a-Tweetstorm.git`
-2.  Install the required libraries: `pip install -r requirements.txt`
+### How to Reproduce This Analysis
+1.  Clone this repository:
+    `git clone https://github.com/MagdalenaRomaniecka/Musk-Sentiment-vs-TSLA.git`
+2.  Install the required libraries:
+    `pip install -r requirements.txt`
 3.  Ensure your dataset (e.g., `all_musk_posts.csv`) is in the root directory.
-4.  Open and run the `.ipynb` notebook to see the full analysis process.
-
+4.  Open and run the **`[TWOJA_NAZWA_NOTATNIKA].ipynb`** notebook to see the full analysis process.
