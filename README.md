@@ -95,7 +95,6 @@ The following is the complete, phase-by-phase interpretation of the chart in its
 * **Environment:** Google Colab / Jupyter Notebook
 
 ### How to Reproduce This Analysis
-### How to Reproduce This Analysis
 1.  Clone this repository:
     `git clone https://github.com/MagdalenaRomaniecka/Musk-Sentiment-vs-TSLA.git`
 2.  Install the required libraries:
